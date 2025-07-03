@@ -1,16 +1,20 @@
-## Hi there 👋
+# Kumusta, I am Joshua!
 
-<!--
-**madlangbayanjp/madlangbayanjp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🎓 **Education**: Currently pursuing a Bachelor's degree in Computer Science at National University.
+- 💡 **Interests**: Data Science, Data Analysis, Machine Learning, Artificial Intelligence, Mobile Development, Web Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+
+
+## 📫 Get in Touch
+
+[![Email](https://img.shields.io/badge/Email-madlangbayanjoshua14@gmail.com-red?style=flat-square&logo=gmail)](mailto:madlangbayanjoshua14@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joshuamanuel14-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/joshuamanuel14)
