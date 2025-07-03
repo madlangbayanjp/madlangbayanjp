@@ -21,3 +21,11 @@
 
 [![Email](https://img.shields.io/badge/Email-madlangbayanjoshua14@gmail.com-red?style=flat-square&logo=gmail)](mailto:madlangbayanjoshua14@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joshuamanuel14-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/joshuamanuel14)
+
+## 📈 Joshua's GitHub Stats
+
+![Joshua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=madlangbayanjp&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madlangbayanjp&layout=compact&theme=github_dark)
+
+
