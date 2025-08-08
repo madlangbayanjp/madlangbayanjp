@@ -28,6 +28,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madlangbayanjp&layout=compact&theme=github_dark)
 
-![snake gif](https://raw.githubusercontent.com/your-username/your-username/main/dist/snake.svg)
+![snake gif](https://raw.githubusercontent.com/madlangbayanjp/madlangbayanjp/main/dist/snake.svg)
 
 
