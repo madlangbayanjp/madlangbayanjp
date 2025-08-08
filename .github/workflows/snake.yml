@@ -24,5 +24,10 @@ jobs:
       - name: Push Snake
         uses: EndBug/add-and-commit@v9
         with:
+          author_name: github-actions[bot]
+          author_email: 41898282+github-actions[bot]@users.noreply.github.com
           message: "Generated snake animation"
           add: "dist/snake.svg"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
