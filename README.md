@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🎓 **Education**: Currently pursuing a Bachelor's degree in Computer Science at National University.
+- 🎓 **Education**: Currently pursuing a Bachelor of Science degree in Computer Science specializing in Machine Learning at National University.
 - 💡 **Interests**: Data Science, Data Analysis, Machine Learning, Artificial Intelligence, Mobile Development, Web Design
 
 ## 🚀 Tech Stack
