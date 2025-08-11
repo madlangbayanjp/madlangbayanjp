@@ -1,34 +1,35 @@
-name: Generate Snake
+name: generate-snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight
-  workflow_dispatch: # Allows you to run the workflow manually
+    - cron: "0 0 * * *" # Runs every day at midnight UTC
   push:
     branches:
-      - main
+      - main # Runs on every push to main
+  workflow_dispatch: # Lets you manually run the workflow
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake
+      - name: Generate Snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: madlangbayanjp
+          github_user_name: madlangbayanjp 
           outputs: dist/snake.svg
-          palette: "#00ff00 #a020f0 #000000"
+          color_snake: "#1F6FEB" # Blue snake
+          palette: "#000000 #003300 #006600 #009900 #00CC00"
+          background: "#000000" # Pure black background
 
-      - name: Push Snake
+      - name: Push changes
         uses: EndBug/add-and-commit@v9
         with:
-          author_name: github-actions[bot]
-          author_email: 41898282+github-actions[bot]@users.noreply.github.com
-          message: "Generated snake animation"
-          add: "dist/snake.svg"
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "Generated blue snake animation with black background"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
