@@ -22,12 +22,10 @@
     <td><b>Web & Mobile</b></td>
     <td>
       <img src="https://img.shields.io/badge/Flutter-0288D1?style=for-the-badge&logo=Flutter&logoColor=white">
-      <img src="https://img.shields.io/badge/-Figma-8E44AD?style=for-the-badge&logo=Figma&logoColor=white">
-      <img src="https://img.shields.io/badge/-Canva-00BFAE?style=for-the-badge&logo=Canva&logoColor=white">
     </td>
   </tr>
   <tr>
-    <td><b>Data & Visualization</b></td>
+    <td><b>Data Analysis & Visualization</b></td>
     <td>
       <img src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white">
       <img src="https://img.shields.io/badge/NumPy-4D77CF?style=for-the-badge&logo=numpy&logoColor=white">
@@ -51,6 +49,8 @@
     <td><b>Databases</b></td>
     <td>
       <img src="https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+      <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
     </td>
   </tr>
   <tr>
@@ -65,6 +65,13 @@
     <td>
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
       <img src="https://img.shields.io/badge/Colab-FFCB2B.svg?style=for-the-badge&logo=googlecolab&logoColor=black">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Design</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Figma-8E44AD?style=for-the-badge&logo=Figma&logoColor=white">
+      <img src="https://img.shields.io/badge/-Canva-00BFAE?style=for-the-badge&logo=Canva&logoColor=white">
     </td>
   </tr>
 </table>
