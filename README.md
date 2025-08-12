@@ -84,7 +84,7 @@
 
 [![Email](https://img.shields.io/badge/Email-madlangbayanjoshua.work@gmail.com-red?style=flat-square&logo=gmail)](mailto:madlangbayanjoshua.work@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joshuamanuel14-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/joshuamanuel14)
-[![X](https://img.shields.io/badge/X-__joshuamanuelm-black?style=flat-square&logoColor=white)](https://x.com/_joshuamanuelm)
+[![X](https://img.shields.io/badge/X-__joshuamanuelm-black?style=flat-square&logo=x&logoColor=white)](https://x.com/_joshuamanuelm)
 [![Reddit](https://img.shields.io/badge/Reddit-Ok_Bridge_6669-FF4500?style=flat-square&logo=reddit)](https://www.reddit.com/user/Ok_Bridge_6669/)
 [![Discord](https://img.shields.io/badge/Discord-owaaa14-5865F2?style=flat-square&logo=discord)](https://discord.com/users/YourUserID)
 
