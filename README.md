@@ -29,6 +29,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-525252?style=for-the-badge&logoColor=white)
+[![YOLOv11](https://img.shields.io/badge/YOLO-v11-brightgreen?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/ultralytics/yolov11)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&color=525252)
 
 
