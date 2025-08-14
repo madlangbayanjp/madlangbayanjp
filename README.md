@@ -65,6 +65,7 @@
     <td>
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
       <img src="https://img.shields.io/badge/Colab-FFCB2B.svg?style=for-the-badge&logo=googlecolab&logoColor=black">
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
     </td>
   </tr>
   <tr>
