@@ -36,6 +36,7 @@
     <td><b>Data Analysis & Visualization</b></td>
     <td>
       <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+      <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white">
       <img src="https://img.shields.io/badge/-Tableau-DAA520?style=for-the-badge&logo=tableau&logoColor=white">
       <img src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white">
       <img src="https://img.shields.io/badge/NumPy-4D77CF?style=for-the-badge&logo=numpy&logoColor=white">
